@@ -1,6 +1,20 @@
-# star_wars_app
+# Star_Wars_App
 
-A Star Wars Report app
+**A Star Wars Report app**
+
+*This app uses libraries dependencies*
+*and must be installed. Please,* 
+*use flutter pub get in shell to pull them.*
+
+**Libraries being used**
+
+ - http: ^1.1.0
+ - riverpod_generator: ^2.3.2
+ - riverpod_annotation:
+ - flutter_riverpod: ^2.4.0
+ - go_router: ^10.1.2
+ - another_flushbar: ^1.12.30
+ - build_runner:
 
 https://github.com/horacioduca23/star_wars_app/assets/55465024/71ed8139-83d3-4e81-87d2-865a3f190e9f
 
