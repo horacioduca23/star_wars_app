@@ -1,6 +1,6 @@
 # star_wars_app
 
-A new Flutter project.
+A Star Wars Report app
 
 ## Getting Started
 
